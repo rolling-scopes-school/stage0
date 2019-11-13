@@ -7,6 +7,8 @@
 * [ ] Think about presentation task )
 * [ ] Review interactive online courses and update course topic if it needs
 
+## main interactive course
+https://ru.code-basics.com/languages/javascript
 
 ## Course topics
 1. intro
@@ -56,7 +58,6 @@ http://old.code.mu/tasks/javascript/base/osnovy-yazyka-javascript-dlya-novichkov
 
 
 ## Online Course examples
-* good interactive course https://ru.code-basics.com/languages/javascript
 * classic js course https://learn.javascript.ru/
 * ещё есть такой вариант, для тех кто предпочитает видео
 https://www.youtube.com/watch?v=H6G63NKRSi8&list=PL363QX7S8MfSxcHzvkNEqMYbOyhLeWwem
