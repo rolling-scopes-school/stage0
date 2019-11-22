@@ -83,12 +83,22 @@ https://github.com/rolling-scopes-school/d0-education-program/tree/master/progra
 * https://github.com/StephenGrider/AlgoCasts/tree/master/exercises
 * https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/
 
+## Typical problems en
+* dont press ctrl + s  in vs code to save the file
+* write one = instead of ==
+* go out of array size
+* dont know basic vocabulary - assign, object, iteration
+* get last element of array
+* get middle of array
+* get rest of division
+* increment
+* split by character 
 
-## Typical problems
+
+## Typical problems ru
 * типо не нажали ctrl + s  в vs  коде
 * написали вместо одного = два ==
 * вышли за пределы массива и тд
-
 * присвоить, объект, проитерироваться (for in, for of, forEach)
 * взять последний элемент
 * взять середину
