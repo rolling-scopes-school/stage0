@@ -1,14 +1,44 @@
 # stage0
 
+## Main idea of the course
+The main idea is to give people a direction and first step in programming learning.
+
+The course consist of 
+- the program outline with main topics
+- the set of taks on codewars platworm
+- link to the interactive online course 
+
+The expected result - a prepared student which is able to study on rolling scopes school
+- can pass the stage 1
+  - be able to solve complex algorithmics task using google and discord chat
+  - be able to learn html & css / markup
+  - be able to use rss resources - discord chats, youtube channels, https://docs.rs.school/#/
+  - be able to use google to search for the questions
+  - be able to understand tasks
+  - be able to ask the right questions
+  
+
 ## TODO
 * [ ] Fill the topics with link to mdn / theory / video 
 * [ ] Find 1-10 tasks for each topics
 * [ ] Write tests for each topic (or for each 2-3 topics)
-* [ ] Think about presentation task )
-* [ ] Review interactive online courses and update course topic if it needs
+* [x] Think about presentation task )
+* [x] Review interactive online courses and update course topic if it needs
 
 ## main interactive course
 https://ru.code-basics.com/languages/javascript
+
+### covered topics 
+* 10-basics
+* 20-arithmetics
+* 25-strings
+* 30-variables
+* 33-data-types
+* 35-calling-functions	
+* 38-properties
+* 40-define-functions
+* 45-logic
+* 50-loops
 
 ## tasks on codewars
 https://www.codewars.com/collections/rss-stage0
@@ -21,6 +51,7 @@ https://www.codewars.com/collections/rss-stage0
   - problems solve with programming
   - see the map with features
   - see the image slider to markup data for ML
+  - 
 3. vars
   - codewars task
   - calculations / formulas (warm up)
