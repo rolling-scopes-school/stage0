@@ -10,6 +10,9 @@
 ## main interactive course
 https://ru.code-basics.com/languages/javascript
 
+## tasks on codewars
+https://www.codewars.com/collections/rss-stage0
+
 ## Course topics
 1. intro
   - first task hello world
