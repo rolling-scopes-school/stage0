@@ -73,7 +73,15 @@ https://www.codewars.com/collections/rss-stage0
   
 7. algorithms - input / output / understand the task
 
-8. data structures - array, hashmap, list / linked list, heap, tree
+8. data structures 
+  - array, 
+  - set, map
+  - hashmap, 
+  - list / linked list, 
+  - heap, 
+  - tree,
+  - queue
+  
 
 9. tasks in codewars
 
