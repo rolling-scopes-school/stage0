@@ -61,6 +61,11 @@ https://www.codewars.com/collections/rss-stage0
   - codewars task
   - application / problem to solve
   - npm install / npm tests
+  - pure functions
+  - rest / arguments package
+  - spread / args unpack
+  - high order functions
+  - abstractions with modules / architecture
 
 5. if / switch statement
   - codewars task
