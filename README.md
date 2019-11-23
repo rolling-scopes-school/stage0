@@ -70,8 +70,18 @@ https://www.codewars.com/collections/rss-stage0
   - task, 
   - test
   - filter, map, forEach, reduce
+  - temp value
+  - referencies
+  - spead and creating a new arrays
+  - break / continue
+  - internal arrays
+  - sorting
+  - Big O
   
-7. algorithms - input / output / understand the task
+7. algorithms 
+  - input
+  - output
+  - understand the task
 
 8. data structures 
   - array, 
@@ -122,6 +132,13 @@ https://github.com/rolling-scopes-school/d0-education-program/tree/master/progra
 * https://github.com/StephenGrider/AlgoCasts/tree/master/exercises
 * https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/
 
+### Topics good to cover
+* https://ru.hexlet.io/courses/js_errors
+* different programming approaches
+  * data driving programming - https://ru.hexlet.io/courses/ddp
+  * procedural programming (functions + modules)
+  * object oriented programming (everything is an object of some class)
+  * functional programming (function - pure and high order, data pipelines, recursions, type systems, immutable data structures)
 ## Typical problems en
 * dont press ctrl + s  in vs code to save the file
 * write one = instead of ==
