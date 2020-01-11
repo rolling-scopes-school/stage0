@@ -144,6 +144,12 @@ https://github.com/rolling-scopes-school/d0-education-program/tree/master/progra
   * procedural programming (functions + modules)
   * object oriented programming (everything is an object of some class)
   * functional programming (function - pure and high order, data pipelines, recursions, type systems, immutable data structures)
+  
+## Online tests for beginners
+  * [W3Schools JavaScript Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=JavaScript)
+  * [W3Schools HTML Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=HTML)
+  * [W3Schools CSS Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=CSS)
+  
 ## Typical problems en
 * dont press ctrl + s  in vs code to save the file
 * write one = instead of ==
