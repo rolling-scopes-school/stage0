@@ -123,8 +123,6 @@ https://www.youtube.com/watch?v=H6G63NKRSi8&list=PL363QX7S8MfSxcHzvkNEqMYbOyhLeW
 * other interactive course - https://www.codecademy.com/learn/introduction-to-javascript
 * very simple course - https://www.khanacademy.org/computing/computer-programming/programming/intro-to-programming/a/learning-programming-on-khan-academy
 
-https://github.com/rolling-scopes-school/d0-education-program/tree/master/program
-
 
 ### Other stuff to process
 * https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/
