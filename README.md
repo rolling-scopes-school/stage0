@@ -134,6 +134,7 @@ https://www.youtube.com/watch?v=H6G63NKRSi8&list=PL363QX7S8MfSxcHzvkNEqMYbOyhLeW
 ### Programming tasks
 * https://github.com/StephenGrider/AlgoCasts/tree/master/exercises
 * https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/
+* https://github.com/karan/Projects
 
 ### Topics good to cover
 * https://ru.hexlet.io/courses/js_errors
