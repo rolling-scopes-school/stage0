@@ -32,7 +32,6 @@ JavaScript - самый популярный язык программирова
 
 - [Test: Basic JavaScript](https://forms.gle/BZBNd8G9sA4TvtcDA)
 - [Codewars](tasks/codewars.md)
-- [JavaScript 30](tasks/js30.md)
 
 ## Материалы
 
