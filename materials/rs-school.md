@@ -4,7 +4,7 @@
 
 Ответы на большинство вопросов даёт [документация курса](https://docs.rs.school/) с поправкой на то, что учебный процесс динамичный и документация не всегда успевает за изменениями курса.
 
-Кроме того желательно посмотреть вступительные видео, познакомиться с [расписаниеь курса](https://docs.google.com/spreadsheets/d/1oM2O8DtjC0HodB3j7hcIResaWBw8P18tXkOl1ymelvE/htmlview#), с [учебной платформой курса](https://app.rs.school/), почитать [отзывы студентов предыдущих наборов](https://docs.google.com/spreadsheets/d/1UZxoOstzqK6NPKvEROS2X86R5yyINC8gj9ypGERwphQ/).
+Кроме того желательно посмотреть вступительные видео, познакомиться с [расписанием курса](https://docs.google.com/spreadsheets/d/1oM2O8DtjC0HodB3j7hcIResaWBw8P18tXkOl1ymelvE/htmlview#), с [учебной платформой курса](https://app.rs.school/), почитать [отзывы студентов предыдущих наборов](https://docs.google.com/spreadsheets/d/1UZxoOstzqK6NPKvEROS2X86R5yyINC8gj9ypGERwphQ/).
 
 ## Задание
 
@@ -18,6 +18,3 @@
 - [Расписание курса](https://docs.google.com/spreadsheets/d/1oM2O8DtjC0HodB3j7hcIResaWBw8P18tXkOl1ymelvE/htmlview#)
 - [rs app - учебная платформа курса](https://app.rs.school/)
 - [YouTube канал курса](https://www.youtube.com/channel/UCUgmHbk1rTFaf4GGKQ1OXfQ)
-  - [The Rolling Scopes School 2019Q3 Intro](https://youtu.be/cDNpoHMeL9U)
-  - [RSSchool 2019Q1 Intro](https://youtu.be/13KzPeWlhuE)
-  - [The Rolling Scopes School JS/FE 2020Q1 Intro](https://youtu.be/1ric9J-iYGM)

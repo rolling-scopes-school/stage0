@@ -6,6 +6,7 @@
 - HTML
   - [блочная модель](https://webref.ru/course/block-model)
   - [блочные и строчные элементы](https://webref.ru/course/block-inline)
+  - [поток документа](https://developer.mozilla.org/ru/docs/Learn/CSS/CSS_layout/Нормальный_поток)
   - [позиционирование элементов](https://webref.ru/course/position)
   - [флексбоксы](https://danilin.biz/flexbox.htm)
   - [особенности семантической вёрстки](http://webupblog.ru/semanticheskaya-verstka-sajta/)
@@ -37,7 +38,7 @@
 
 ### Интерактивные тренажеры
 - [HTML Academy](https://htmlacademy.ru/courses)
-- [Code Basics](https://ru.code-basics.com/) разделы [HTML](https://ru.code-basics.com/languages/html) [css](https://ru.code-basics.com/languages/css)
+- [Code Basics](https://ru.code-basics.com/) разделы [HTML](https://ru.code-basics.com/languages/html) и [CSS](https://ru.code-basics.com/languages/css)
 
 ### Видео
 - [HTML для самых маленьких](https://www.youtube.com/playlist?list=PL3LQJkGQtzc7aWRyr-GaxyO_dwj5inJ1t)

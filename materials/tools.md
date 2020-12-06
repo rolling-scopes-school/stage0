@@ -40,6 +40,6 @@
 ## Материалы
 
 - [Установка и настройка Visual Studio Code](https://youtu.be/1IvGow7V_dk)
-- [Visual Studio Code docs](https://code.visualstudio.com/docs/introvideos/basics)
+- [Документация Visual Studio Code (en)](https://code.visualstudio.com/docs/introvideos/basics)
 - [Как установить Node.js и NPM на Windows](https://youtu.be/lZfN9KZo_y8)
 - [Установка Git Bash в Windows и минимальная настройка Git](https://youtu.be/niC4-rOaloc)
