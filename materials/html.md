@@ -46,6 +46,7 @@
 - [HTML для начинающих](https://www.youtube.com/playlist?list=PLY4rE9dstrJyeZlPWoKJr1xKVVnG4w-Hc)
 - [Плагин Emmet](https://www.youtube.com/watch?v=WeNN9So5DTs)
 - [Основы CSS/CSS3](https://www.youtube.com/playlist?list=PL026CCEB5125879C2)
+- [Вёрстка сайта с нуля для начинающих](https://www.youtube.com/playlist?list=PLoq3Accf02PVdUqjqPdWMG4HbEZXlhICW)
 
 ### Вебинары RS School
 - [HTML/CSS Basics](https://youtu.be/xdBTX4RMoBE)
