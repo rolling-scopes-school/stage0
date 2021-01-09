@@ -57,7 +57,7 @@ JavaScript - самый популярный язык программирова
 
 ## Проекты
 - JavaScript 30
-  - [Сайт проекта](https://javascript30.com/
+  - [Сайт проекта](https://javascript30.com/)
   - [Репозиторий проекта на GitHub](https://github.com/wesbos/JavaScript30)
   - [Плейлист на YouTube](https://www.youtube.com/playlist?list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH)
 - [Build 15 JavaScript Projects](https://youtu.be/3PHXvlpOkf4)
