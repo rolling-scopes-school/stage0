@@ -6,7 +6,7 @@
 - HTML
   - [блочная модель](https://webref.ru/course/block-model)
   - [блочные и строчные элементы](https://webref.ru/course/block-inline)
-  - [поток документа](https://developer.mozilla.org/ru/docs/Learn/CSS/CSS_layout/Нормальный_поток)
+  - [поток документа](https://itchief.ru/html-and-css/css-positioning-elements)
   - [позиционирование элементов](https://webref.ru/course/position)
   - [флексбоксы](https://danilin.biz/flexbox.htm)
   - [особенности семантической вёрстки](http://webupblog.ru/semanticheskaya-verstka-sajta/)
@@ -20,7 +20,7 @@
 
 ## Задания
 
-- [Test: HTML & CSS](https://forms.gle/etfLS7wkavJ8tzDZ6)
+- [HTML/CSS Test](../tests/index.md)
 - [HTML & CSS](tasks/html-css.md)
 - [Wildlife](tasks/wildlife.md)
 
@@ -35,6 +35,13 @@
 - [HTML5 Семантические элементы](https://html5css.ru/html/html5_semantic_elements.php)
 - [Шпаргалка по Flexbox](https://habr.com/ru/post/313938/)
 - [CSS3-медиазапросы](https://html5book.ru/css3-mediazaprosy/)
+- [Рекомендации по оформлению кода - Как понравиться своему наставнику](https://github.com/tsergeytovarov/htmlacademy-basic-additional-material/blob/master/articles/как-понравиться-своему-наставнику/article.md)
+- [Шпаргалка по Emmet](https://docs.emmet.io/cheat-sheet/)
+- [Зачем нужны семантические теги «Семантика или смерть»](https://www.slideshare.net/yandex/ss-28968570)
+- [Типовые названия классов для html](https://github.com/tsergeytovarov/htmlacademy-basic-additional-material/blob/master/articles/типовые-названия-классов/article.md)
+- [Контент по центру, фон по ширине](https://isqua.ru/blog/2016/06/23/content-po-sentru-fon-po-shirinie/)
+- [Как попасть в макет и не сойти с ума](https://isqua.ru/blog/2016/05/30/kak-popast-v-makiet-i-nie-soiti-s-uma/)
+- [Подборка материалов от htmlacademy](https://github.com/tsergeytovarov/htmlacademy-basic-additional-material/blob/master/README.md)
 
 ### Интерактивные тренажеры
 - [HTML Academy](https://htmlacademy.ru/courses)

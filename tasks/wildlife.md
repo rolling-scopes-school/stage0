@@ -98,6 +98,6 @@
   
 
 ## Материалы
-
+- [Старт в Figma для верстальщика](https://htmlacademy.ru/blog/useful/figma)
 - [Вопросы и ответы по Figma](http://figmaweb.ru/faq-figma-otvety-na-samye-populyarnye-voprosy/)
 - [Верстка сайта с нуля из Figma](https://www.youtube.com/playlist?list=PL5_s7xdj2Vsw-bCx5nOZJMFIiHwRgok--)

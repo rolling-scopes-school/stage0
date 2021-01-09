@@ -8,7 +8,7 @@
 
 ## Задание
 
-- [Test: Как учиться в RS School](https://forms.gle/pFhpYzD7nnGuzsJm6)
+- [RSS Test](../tests/index.md)
 
 ## Материалы
 

@@ -9,7 +9,7 @@
 
 #### Расширения Visual Studio Code
 (базовый минимум, список может расширяться)
-- **Russian Language Pack for Visual Studio Code** - устанавливает русский язык
+- **Russian Language Pack for Visual Studio Code** - устанавливает русский язык 
 - **Auto Complete Tag** - автоматически закрывает теги
 - **Live Server** - открывает html-страницу в браузере
 - **Brackets Light Pro** – оформление как у Brackets (для любителей светлой темы)
@@ -43,3 +43,4 @@
 - [Документация Visual Studio Code (en)](https://code.visualstudio.com/docs/introvideos/basics)
 - [Как установить Node.js и NPM на Windows](https://youtu.be/lZfN9KZo_y8)
 - [Установка Git Bash в Windows и минимальная настройка Git](https://youtu.be/niC4-rOaloc)
+- [Настройка Рабочего Окружения](https://youtu.be/5YW71SBgdBg)
