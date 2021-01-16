@@ -1,4 +1,4 @@
-# HTML, CSS & Git
+# HTML, CSS & Git Basics
 
 Ваша задача - создать своё [CV](https://ru.wikipedia.org/wiki/Curriculum_vitae) в виде html-страницы с css-стилями.  
 Основу содержания данной страницы составят данные, которые вы добавили в markdown-документ из предыдущего задания [Markdown & Git](tasks/git-markdown.md)

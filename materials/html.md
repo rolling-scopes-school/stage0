@@ -20,7 +20,7 @@
 
 ## Задания
 
-- [HTML/CSS Test](../tests/index.md)
+- [HTML/CSS Test](tests/index.md)
 - [HTML & CSS](tasks/html-css.md)
 - [Wildlife](tasks/wildlife.md)
 

@@ -8,7 +8,7 @@
 
 ## Задание
 
-- [RSS Test](../tests/index.md)
+- [RSS Test](tests/index.md)
 
 ## Материалы
 

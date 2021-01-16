@@ -32,7 +32,7 @@ JavaScript - самый популярный язык программирова
 
 ## Задания
 
-- [JS Test](../tests/index.md)
+- [JS Test](tests/index.md)
 - [Codewars](tasks/codewars.md)
 - [Typical Arrays Problems](https://github.com/rolling-scopes-school/typical-arrays-problems/blob/master/README.md)
 - [JS: Brackets](https://github.com/Shastel/brackets)
