@@ -58,6 +58,7 @@
       - загружаете файлы в репозиторий. Для этого выполняете команду  
       `git push origin main` , здесь `main` - название ветки репозитория, в которую пушите изменения
    </details>
+   
 5. <details>
      <summary>Создание веток</summary>
 
@@ -86,6 +87,7 @@
      Обратите внимание, при создании ветки в неё копируются все файлы той ветки, от которой её создали.
      
    </details>
+   
 6. <details>
      <summary>Создание Pull Request</summary>
 
@@ -100,6 +102,7 @@
      Вы открыли Pull Request. В таком виде его и оставьте. В открытом Pull Request ментору будет удобно проверять код. Обратите внимание, что к Pull Request можно и нужно добавить описание. [Описание pull request должно содержать следующую информацию](https://docs.rs.school/#/pull-request-review-process?id=Описание-pull-request-должно-содержать-следующую-информацию)
      - Если нажать на кнопку **Merge pull request**, Pull Request закроется, при этом файлы из ветки разработки переместятся в ту ветку, в которую делаете Pull Request.
    </details>
+   
 7. <details>
      <summary>Деплой на gh-pages</summary>
 
@@ -131,6 +134,7 @@
      `github-name` - username пользователя GitHub  
      `repository-name` - название репозитория
    </details>
+   
 8. <details>
      <summary>Деплой на netlify</summary>
 
