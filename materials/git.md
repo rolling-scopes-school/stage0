@@ -71,8 +71,9 @@
      2. Кликните на треугольник рядом с названием ветки. В текстовое поле впишите название ветки, например, `gh-pages`
      3. Нажмите на строку `Create branch: gh-pages from main` (or from `master`).  
      Мы создали ветку `gh-pages`.  
+     
 
-    ![](../images/create-branch.png)
+      ![](../images/create-branch.png)
 
      ### Создание ветки при помощи Git
 
