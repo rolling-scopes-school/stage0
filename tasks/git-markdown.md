@@ -83,9 +83,6 @@ Markdown & Git - автопроверяемый таск.
 4. 50 баллов и статус "Failed PR requirements: No Pull Request with task name (Markdown & Git)"  
    Вы не отправили Pull Request с `gh-pages` в `master`или название Pull Request не "Markdown & Git".  
    Увидеть свой PR, вы можете здесь: `https://your-github-account.github.io/rsschool-cv/pulls`
-
-
-Если вы все-таки считаете, что балл за задание выставлен не верно (все делают ошибки, даже роботы), мы просим вас как можно подробнее изложить свои аргументы в комментариях к issue https://github.com/rolling-scopes-school/support/issues/1
 </details>
 
 ## Материалы:
