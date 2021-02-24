@@ -26,7 +26,18 @@
 - Название репозитория - `wildlife`
 - Разработка ведётся в главной ветке репозитория - `main` (или `master`)
 - Для деплоя используйте `netlify`. Название страницы дайте по схеме: имя гитхаб аккаунта - название таска
-- После старта основного этапа 28.02 задание нужно будет перенести в приватный репозиторий школы. О порядке выдачи таких репозиториев и особенностях работы с ними будет сделано объявление в анонсах (канал RS School в discord, в котором размещается самая важная информация курса).
+- После старта основного этапа 28.02 задание нужно будет перенести в приватный репозиторий школы.  
+
+Для этого:
+1. Ознакомьтесь с [порядком работы с приватным репозиторием школы](https://docs.rs.school/#/private-repository)
+2. Склонируйте на компьютер приватный репозиторий школы, зайдите в папку репозитория, выполните команды
+```
+git remote add private https://github.com/github-username/wildlife.git
+git fetch private
+git checkout -b wildlife private/main
+git push -u origin wildlife
+```
+здесь `github-username` - username пользователя GitHub
 
 ## Требования к коммитам
 
@@ -109,6 +120,7 @@
 ## Cross-check
 - инструкция по проведению cross-check: https://docs.rs.school/#/cross-check-flow
 - форма для проверки задания https://wildlife-cross-check.netlify.app/
+- видеоинструкция по проведению cross-check: https://youtu.be/aVUmgy0UcUU
 
 ## Материалы
 - [Старт в Figma для верстальщика](https://htmlacademy.ru/blog/useful/figma)
