@@ -33,40 +33,6 @@ Codewars - автопроверяемый таск.
 
 **Максимальный балл за задание +15, по 1 баллу за каждую решённую задачу**
 
-## Auto-Check
-
-Проверить все ли задачи вы выполнили позволит приложение https://auseika.github.io/kata-scan/  или https://usavkov.gitlab.io/codewars-check/  
-Такая проверка не влияет на сабмит задания и не заменяет его.
-
-<details><summary>Инструкция по Auto-Check</summary>
-<p>
-
-1. Введите список кат в поле ввода приложения
-
-<pre>
-https://www.codewars.com/kata/reversed-strings  
-https://www.codewars.com/kata/palindrome-strings
-https://www.codewars.com/kata/anagram-detection
-https://www.codewars.com/kata/opposite-number
-https://www.codewars.com/kata/even-or-odd
-https://www.codewars.com/kata/century-from-year
-https://www.codewars.com/kata/greatest-common-divisor
-https://www.codewars.com/kata/factorial
-https://www.codewars.com/kata/removing-elements     
-https://www.codewars.com/kata/remove-duplicates-from-list
-https://www.codewars.com/kata/sum-of-positive
-https://www.codewars.com/kata/find-the-capitals
-https://www.codewars.com/kata/fizz-buzz    
-https://www.codewars.com/kata/shortest-word
-https://www.codewars.com/kata/square-every-digit
-username
-</pre>
-2. Замените строку **username** на свой никнейм на сайте codewars
-
-3. Нажмите "Check", чтобы увидеть результат.
-</p>
-</details>
-
 ## Материалы
 
 - [Codewars. Онлайн самоучитель по программированию](https://youtu.be/Jm7nca3jk4M)
