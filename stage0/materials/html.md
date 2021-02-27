@@ -20,9 +20,9 @@
 
 ## Задания
 
-- [HTML/CSS Test](tests/index.md)
-- [HTML & CSS](tasks/html-css.md)
-- [Wildlife](tasks/wildlife.md)
+- [HTML/CSS Test](stage0/tests/index.md)
+- [HTML & CSS](stage0/tasks/html-css.md)
+- [Wildlife](stage0/tasks/wildlife.md)
 
 ## Материалы
 

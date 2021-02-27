@@ -1,13 +1,13 @@
 ## Основные вопросы этапа самоподготовки:
-- [Настройка окружения](materials/tools.md)
+- [Настройка окружения](stage0/materials/tools.md)
   - установка и настройка необходимых для разработки программ
-- [Работа с Git](materials/git.md)
+- [Работа с Git](stage0/materials/git.md)
   - приобретение практических навыков работы с Git и GitHub
-- [HTML & CSS](materials/html.md)
+- [HTML & CSS](stage0/materials/html.md)
   - изучение основ HTML и CSS, знакомство с теорией и практикой вёрстки
-- [JavaScript](materials/js.md)
+- [JavaScript](stage0/materials/js.md)
   - изучение теории, решение задач, выполнение проектов
-- [RS School](materials/rs-school.md)
+- [RS School](stage0/materials/rs-school.md)
   - знакомство с rs app, расписанием, документацией, правилами  и требованиями курса
-- [Английский язык](materials/english.md)
+- [Английский язык](stage0/materials/english.md)
   - рекомендации по изучению английского, полезные советы, ссылки и материалы
