@@ -1,1 +1,1 @@
-https://rolling-scopes-school.github.io/roadmap/
+https://rolling-scopes-school.github.io/stage0/
