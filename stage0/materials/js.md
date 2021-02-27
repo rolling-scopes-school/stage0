@@ -32,8 +32,8 @@ JavaScript - самый популярный язык программирова
 
 ## Задания
 
-- [JS Test](tests/index.md)
-- [Codewars](tasks/codewars.md)
+- [JS Test](stage0/tests/index.md)
+- [Codewars](stage0/tasks/codewars.md)
 - [Typical Arrays Problems](https://github.com/rolling-scopes-school/typical-arrays-problems/blob/master/README.md)
 - [JS: Brackets](https://github.com/Shastel/brackets)
 - [Towel Sort](https://github.com/rolling-scopes-school/towel-sort/blob/master/README.md)

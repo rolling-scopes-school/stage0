@@ -36,15 +36,12 @@
 
 ## Статьи:
 
-- [Как определить свой уровень владения английским?](http://proenglish-blog.ru/chasto-zadavaemye-voprosy/kak-opredelit-svoj-uroven-vladeniya-anglijskim.html)
 - [Проверьте уровень владения английским языком](https://www.efset.org/ru/free-english-test/)
-- [Сколько времени нужно, чтобы выучить английский язык?](http://proenglish-blog.ru/chasto-zadavaemye-voprosy/skolko-vremeni-nuzhno-chtoby-vyuchit-anglijskij-yazyk.html)
 - [Английский для айтишника? Легко!](https://habr.com/ru/post/130208/)
 - [Перестаньте учить английские слова](https://habr.com/ru/post/172873/)
 - [22 сайта для программиста, которые помогут заговорить на английском](https://habr.com/ru/post/464457/)
 
 ## Материалы
-
 ### Интерактивные курсы
 - [Duolingo](https://ru.duolingo.com/)
 - [Lingualeo](https://lingualeo.com/ru)

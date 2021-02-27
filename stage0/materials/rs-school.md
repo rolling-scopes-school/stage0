@@ -8,13 +8,13 @@
 
 ## Задание
 
-- [RSS Test](tests/index.md)
+- [RSS Test](stage0/tests/index.md)
 
 ## Материалы
 
 - [Видео о курсе](https://youtu.be/TkQS7Ej6zVs)
 - [Документация курса](https://docs.rs.school/)
-- [Отзывы студентов предыдущего набора ](https://docs.google.com/spreadsheets/d/1UZxoOstzqK6NPKvEROS2X86R5yyINC8gj9ypGERwphQ/)
+- [2020q1 Feedback о школе](https://docs.google.com/spreadsheets/d/1UZxoOstzqK6NPKvEROS2X86R5yyINC8gj9ypGERwphQ/)
 - [Расписание курса](https://docs.google.com/spreadsheets/d/1oM2O8DtjC0HodB3j7hcIResaWBw8P18tXkOl1ymelvE/htmlview#)
 - [rs app - учебная платформа курса](https://app.rs.school/)
 - [YouTube канал курса](https://www.youtube.com/channel/UCUgmHbk1rTFaf4GGKQ1OXfQ)
