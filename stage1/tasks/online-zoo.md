@@ -4,7 +4,7 @@
 
 | Дата выдачи | Deadline         | Folder name   | Branch name   |
 | ------------| ---------------- | ------------- | ------------- |
-|             |                  | photo-filter  | photo-filter  |
+|             |                  | online-zoo    | online-zoo    |
 
 Даты выдачи и дедлайны тасков находятся в [расписании](https://docs.google.com/spreadsheets/d/1oM2O8DtjC0HodB3j7hcIResaWBw8P18tXkOl1ymelvE/edit#gid=1646898206)
 
