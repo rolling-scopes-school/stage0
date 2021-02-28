@@ -12,15 +12,12 @@
 
 ![screenshot](images/photo-filter.png)
 
-[Демо](https://rolling-scopes-school.github.io/stage1-tasks/photo-filter/)
+- [Демо](https://rolling-scopes-school.github.io/stage1-tasks/photo-filter/)
+- [Файлы проекта](https://github.com/rolling-scopes-school/stage1-tasks/tree/photo-filter/photo-filter)
+- [Советы по написанию кода](stage1/tasks/photo-filter-hints.md)
+- [Описание stage1 js-projects](stage1/tasks/js-projects.md)
 
-[Файлы проекта](https://github.com/rolling-scopes-school/stage1-tasks/tree/photo-filter/photo-filter)
-
-[Советы по написанию кода](stage1/tasks/photo-filter-hints.md)
-
-[Инструкция к stage1 js-projects](stage1/tasks/js-projects.md)
-
-В ходе выполнения задания вам необходимо создать приложение позволяющее добавить изображению css-фильтры. Фото в приложение можно загрузить с компьютера или по url. Фото с добавленными фильтрами можно скачать на компьютер. 
+В ходе выполнения задания вам необходимо создать приложение позволяющее добавить изображению css-фильтры и сохранить изображение с наложенными на него фильтрами. Фото в приложение можно загрузить с компьютера или по url.
 
 ## Структура и работа приложения
 - на странице отображается фото и настройки css-фильтров в виде ползунков, каждому из которых соответствует определённый css-фильтр

@@ -12,13 +12,10 @@
 
 ![screenshot](images/sounds-app.png)
 
-[Демо](https://7oom.ru/penie-ptic.html)
-
-[Файлы проекта](https://github.com/rolling-scopes-school/stage1-tasks/tree/sounds-app)
-
-[Советы по написанию кода](stage1/tasks/sounds-app-hints.md)
-
-[Инструкция к stage1 js-projects](stage1/tasks/js-projects.md)
+- [Демо](https://7oom.ru/penie-ptic.html)
+- [Файлы проекта](https://github.com/rolling-scopes-school/stage1-tasks/tree/sounds-app)
+- [Советы по написанию кода](stage1/tasks/sounds-app-hints.md)
+- [Описание stage1 js-projects](stage1/tasks/js-projects.md)
 
 В ходе выполнения задания вам необходимо создать музыкальное приложение, в котором есть несколько звуковых тем. Каждая тема содержит зацикленное видео, а также несколько аудиоплееров с звуками природы и музыкой. Также в приложении есть виджет с прогнозом погоды. 
 
