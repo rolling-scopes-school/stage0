@@ -69,7 +69,6 @@
 ## Материалы:
 - [HTML5-видео](https://developer.mozilla.org/ru/docs/Web/HTML/Element/video)
 - [HTML5-аудио](https://html5book.ru/html5-audio/)
-- [Как создать плеер для сайта на HTML5 и JavaScript](https://skillbox.ru/media/code/
 #### LocalStorage
 - [Window.localStorage](https://developer.mozilla.org/ru/docs/Web/API/Window/localStorage)
 - [LocalStorage на пальцах](https://tproger.ru/articles/localstorage/)
