@@ -78,10 +78,8 @@
 - [Использование переменных в CSS](https://developer.mozilla.org/ru/docs/Web/CSS/Using_CSS_custom_properties)
 - [Изучите CSS-переменные за 5 минут](https://medium.com/devschacht/изучите-css-переменные-за-5-минут-3a5dc6193857)
 - [Дата и Время в js](https://learn.javascript.ru/datetime)
-
 ### Видео
 - [JS30. CSS Variables](https://youtu.be/AHLNzv13c2I)
-
 ### Демо для вдохновения
 - [Магия фильтров: 9 интересных приложений для обработки фото](https://asn24.ru/sova/community/magiya-filtrov-9-interesnykh-prilozheniy-dlya-obrabotki-foto-v-instagram/)
 - [CSSFilterGenerator](https://www.cssfiltergenerator.com/)
