@@ -145,7 +145,11 @@ git push origin wildlife
 ## Cross-check
 - инструкция по проведению cross-check: https://docs.rs.school/#/cross-check-flow
 - форма для проверки задания https://wildlife-cross-check.netlify.app/
-- видеоинструкция по проведению cross-check: https://youtu.be/aVUmgy0UcUU
+- видеоинструкция по проведению cross-check: https://youtu.be/aVUmgy0UcUU  
+Обратите внимание. Видеоинструкция не учитывает возможные варианты выполнения задания, добавленные 11.03, поэтому некоторые пункты, указанные в ней как ошибки, сейчас являются допустимыми. Не является ошибкой:
+- использование тега `button` для кнопки "Sign in"
+- использование тега `<input>` с типом `email` для поля email 
+- растягивание фонового изображения во всю ширину экрана
 
 ## Материалы
 - [Старт в Figma для верстальщика](https://htmlacademy.ru/blog/useful/figma)
