@@ -1,14 +1,14 @@
 # HTML, CSS & Git Basics
 
 Ваша задача - создать своё [CV](https://ru.wikipedia.org/wiki/Curriculum_vitae) в виде html-страницы с css-стилями.  
-Основу содержания данной страницы составят данные, которые вы добавили в markdown-документ из предыдущего задания [Markdown & Git](tasks/git-markdown.md)
+Основу содержания данной страницы составят данные, которые вы добавили в markdown-документ из предыдущего задания [Markdown & Git](stage0/tasks/git-markdown.md)
 
 Кроме текста на страницу необходимо добавить ваше фото или аватарку.  
 Страницу нужно разместить на GitHub Pages. Она будет доступна по адресу `https://your-github-account.github.io/rsschool-cv/`, где вместо `your-github-account` необходимо указать свой GitHub username.
 
 ## Порядок работы
 
-1. Работу ведёте в репозитории `rsschool-cv`, созданном при выполнении предыдущего задания [Git & Markdown](tasks/git-markdown.md) 
+1. Работу ведёте в репозитории `rsschool-cv`, созданном при выполнении предыдущего задания [Git & Markdown](stage0/tasks/git-markdown.md) 
 2. От ветки `gh-pages` создайте ветку `rsschool-cv-html`
 3. В ветке `rsschool-cv-html` разместите файлы вёрстки. Обратите внимание, что файл `index.html` должен находиться в корне ветки
 4. Создайте и замержите Pull Request из ветки `rsschool-cv-html` в ветку `gh-pages`
