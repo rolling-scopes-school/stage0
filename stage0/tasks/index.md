@@ -16,5 +16,5 @@
 | 8 |[Towel Sort](https://github.com/rolling-scopes-school/towel-sort/blob/master/README.md)                          |JavaScript| Auto-Test    | 100 х 0.05 = 5    | 15.03.21 |
 | 9 |[Reverse Int](https://github.com/rolling-scopes-school/reverse-int/blob/master/README.md)                        |JavaScript| Auto-Test    | 100 х 0.05 = 5    | 15.03.21 |
 | 10|[Human Readable Number](https://github.com/rolling-scopes-school/human-readable-number/blob/master/README.md)    |JavaScript| Auto-Test    | 100 х 0.05 = 5    | 15.03.21 |
-| 11|[Basic JS](https://github.com/AlreadyBored/basic-js) |JavaScript| Auto-Test    | 100 х 0.5 = 50    | 15.03.21 |
+| 11|[Basic JS](https://github.com/AlreadyBored/basic-js) |JavaScript| Auto-Test    | 100 х 0.5 = 50    | 29.03.21 |
 |   |                                        |          | **Всего**    | **155 баллов**    |          |
