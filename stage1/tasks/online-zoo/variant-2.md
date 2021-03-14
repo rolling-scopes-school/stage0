@@ -1,4 +1,4 @@
-# Вариант #1
+# Вариант #2
 
 Выполнить задание согласно макету автора *Dinky*: **[Online Zoo Project](https://www.figma.com/file/lnK11foY8Aoa6oOlDXovVN/Online-ZOO-Project?node-id=0%3A1)**
 
