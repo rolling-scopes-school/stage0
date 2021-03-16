@@ -10,7 +10,7 @@
 | 2 |Test: HTML & CSS                       |HTML & CSS| Auto-Test    | 100 х 0.1 = 10  | 
 | 3 |Test: Git Basic                        |Git       | Auto-Test    | 100 х 0.1 = 10  | 
 | 4 |Алгоритмические задачи                 |JavaScript| Auto-Test    | 100 х 0.5 = 50  | 
-| 5 |[codewars#1](stage1/tasks/codewars.md)        |JavaScript| Auto-Test    | 65 х 0.2 = 13   | 
+| 5 |[codewars#1](stage1/tasks/codewars.md)        |JavaScript| Auto-Test    | 65 х 0.5 = 32.5 | 
 | 6 |[virtual-piano](stage1/tasks/virtual-piano.md)|JavaScript| Cross-Check  | 50 х 1 = 50     | 
 | 7 |[photo-filter](stage1/tasks/photo-filter.md)  |JavaScript| Cross-Check  | 60 х 1 = 60     | 
 | 8 |[sounds-app](stage1/tasks/sounds-app.md)      |JavaScript| Cross-Check  | 50 х 1 = 50     | 
