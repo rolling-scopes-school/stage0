@@ -11,7 +11,7 @@
 ![screenshot](images/photo-filter.png)
 
 - [Демо](https://rolling-scopes-school.github.io/stage1-tasks/photo-filter/)
-- [Файлы проекта](https://github.com/rolling-scopes-school/stage1-tasks/tree/photo-filter/photo-filter)
+- [Файлы проекта](https://github.com/rolling-scopes-school/stage1-tasks/tree/photo-filter)
 - [Советы по написанию кода](stage1/tasks/photo-filter-hints.md)
 - [Описание js-projects](stage1/tasks/js-projects.md): требования к репозиторию, требования к оформлению приложения, технические требования etc
 

@@ -12,7 +12,7 @@
 
 ![screenshot](images/sounds-app.png)
 
-- [Демо](https://7oom.ru/penie-ptic.html)
+- [Демо](https://rolling-scopes-school.github.io/stage1-tasks/sounds-app/)
 - [Файлы проекта](https://github.com/rolling-scopes-school/stage1-tasks/tree/sounds-app)
 - [Советы по написанию кода](stage1/tasks/sounds-app-hints.md)
 - [Описание js-projects](stage1/tasks/js-projects.md): требования к репозиторию, требования к оформлению приложения, технические требования etc

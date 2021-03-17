@@ -78,6 +78,7 @@
 - [Fullscreen API](https://developer.mozilla.org/ru/docs/DOM/Using_fullscreen_mode)
 - [Using the Fullscreen API. Tutorial](https://www.digitalocean.com/community/tutorials/js-fullscreen-api)
 ### Видео
+- [Live coding от Сергея Шаляпина](https://youtu.be/4bMd0lzwhlY?t=2751)
 - [JS30. JavaScript Drum Kit](https://youtu.be/VuN8qwZoego)
 ### Демо для вдохновения
 - [Демо 1](https://jliza.ru/assets/piano2/)
@@ -89,4 +90,5 @@
 ## Cross-check
 - инструкция по проведению cross-check: https://docs.rs.school/#/cross-check-flow
 - форма для проверки задания: https://rolling-scopes-school.github.io/checklist/
+- видеоинструкция по проведению cross-check: https://youtu.be/gqOY9b9Ihp4
 - ссылки на лучшие работы с качественным оригинальным оформлением или реализованным дополнительным функционалом, добавьте, пожалуйста, в эту форму [https://forms.gle/BFGAF88zZADwRkKV7](https://docs.google.com/forms/d/e/1FAIpQLSdg6dC0I2DS7R9qKIEHSoCBUBmj0HwTDLvXxOsv5_PMsB0oBQ/viewform?usp=sf_link)
