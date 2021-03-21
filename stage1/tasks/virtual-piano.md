@@ -91,6 +91,6 @@
 
 ## Cross-check
 - инструкция по проведению cross-check: https://docs.rs.school/#/cross-check-flow
-- форма для проверки задания: https://rolling-scopes-school.github.io/checklist/
+- форма для проверки задания: https://virtual-piano-cross-check.netlify.app/
 - видеоинструкция по проведению cross-check: https://youtu.be/gqOY9b9Ihp4
 - ссылки на лучшие работы с качественным оригинальным оформлением или реализованным дополнительным функционалом, добавьте, пожалуйста, в эту форму [https://forms.gle/BFGAF88zZADwRkKV7](https://docs.google.com/forms/d/e/1FAIpQLSdg6dC0I2DS7R9qKIEHSoCBUBmj0HwTDLvXxOsv5_PMsB0oBQ/viewform?usp=sf_link)
