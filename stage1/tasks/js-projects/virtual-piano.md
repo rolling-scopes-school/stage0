@@ -8,12 +8,12 @@
 
 ## Task 1. virtual-piano
 
-![screenshot](images/virtual-piano.png)
+![screenshot](../images/virtual-piano.png)
 
 - [Демо](https://rolling-scopes-school.github.io/stage1-tasks/virtual-piano/)
 - [Файлы проекта](https://github.com/rolling-scopes-school/stage1-tasks/tree/virtual-piano)
-- [Советы по написанию кода](stage1/tasks/virtual-piano-hints.md)
-- [Описание js-projects](stage1/tasks/js-projects.md): требования к репозиторию, требования к оформлению приложения, технические требования etc
+- [Советы по написанию кода](stage1/tasks/js-projects/virtual-piano-hints.md)
+- [Описание js-projects](stage1/tasks/js-projects/js-projects.md): требования к репозиторию, требования к оформлению приложения, технические требования etc
 
 В ходе выполнения задания вам необходимо создать приложение - виртуальное пианино. 
 

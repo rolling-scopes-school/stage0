@@ -1,6 +1,6 @@
 # virtual-piano-hints
 
-[Описание задания](stage1/tasks/virtual-piano.md)
+[Описание задания](stage1/tasks/js-projects/virtual-piano.md)
 
 В выполнении задания поможет видео курса JS30 [JavaScript Drum Kit](https://youtu.be/VuN8qwZoego), ссылка на которое приводится в материалах к заданию. В нём автор выполняет очень похожее приложение. [Код приложения](https://github.com/wesbos/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit)
 

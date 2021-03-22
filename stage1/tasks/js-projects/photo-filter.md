@@ -8,12 +8,12 @@
 
 ## Task 2. photo-filter
 
-![screenshot](images/photo-filter.png)
+![screenshot](../images/photo-filter.png)
 
 - [Демо](https://rolling-scopes-school.github.io/stage1-tasks/photo-filter/)
 - [Файлы проекта](https://github.com/rolling-scopes-school/stage1-tasks/tree/photo-filter)
-- [Советы по написанию кода](stage1/tasks/photo-filter-hints.md)
-- [Описание js-projects](stage1/tasks/js-projects.md): требования к репозиторию, требования к оформлению приложения, технические требования etc
+- [Советы по написанию кода](stage1/tasks/js-projects/photo-filter-hints.md)
+- [Описание js-projects](stage1/tasks/js-projects/js-projects.md): требования к репозиторию, требования к оформлению приложения, технические требования etc
 
 В ходе выполнения задания вам необходимо создать приложение позволяющее добавить изображению css-фильтры и сохранить изображение с наложенными на него фильтрами. Изображение в приложение можно загрузить с компьютера или по url.
 

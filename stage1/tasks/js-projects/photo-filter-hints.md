@@ -1,6 +1,6 @@
 ## photo-filter-hints
 
-[Описание задания](stage1/tasks/photo-filter.md)
+[Описание задания](stage1/tasks/js-projects/photo-filter.md)
 
 В выполнении задания поможет видео курса JS30 [CSS Variables](https://youtu.be/AHLNzv13c2I), ссылка на которое приводится в материалах к заданию. В нём автор выполняет приложение, реализующее часть функциональности предлагаемого проекта. [Код приложения](https://github.com/wesbos/JavaScript30/tree/master/03%20-%20CSS%20Variables).
 

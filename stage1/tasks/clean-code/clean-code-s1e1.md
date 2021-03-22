@@ -8,12 +8,12 @@
 
 ## Task 2. Описание: 
 
-![image](https://user-images.githubusercontent.com/8201843/111080709-d1289200-8510-11eb-861c-c39de6d99691.png)
+![image](../images/clean-code.png))
 
 Перед вами небольшое одностраничное [веб-приложение TODO-list](https://github.com/ViktoryiaYatskova/clean-code-s1e1).
 Ваша задача - это навести порядок внутри файлов кода (_рефакторинг_) согласно следующим руководствам:
- [тут](https://github.com/ViktoryiaYatskova/code-quality-principles/blob/main/html-and-css.md)
- и [тут](https://github.com/ViktoryiaYatskova/code-quality-principles/blob/main/html-and-css-extended.md) (только html и css файлы). 
+ [тут](stage1/tasks/clean-code/guildlines/html-and-css.md)
+ и [тут](stage1/tasks/clean-code/guildlines/html-and-css-extended.md) (только html и css файлы). 
 При этом функционал приложения должен остаться все еще рабочим после ваших изменений.
 
 ## Требования к выполнению
@@ -25,7 +25,7 @@
 - Один git-коммит должен содержать изменения согласно одному пункту из руководств.
 (можно несколько коммитов на 1 пункт руководства, но не наоборот).
 Обязательно укажите, какой пункт покрывают изменения в данном коммите.
-- Коммит-сообщения должны быть составлены согласно [следующим правилам](https://github.com/ViktoryiaYatskova/code-quality-principles/blob/main/commits.md)
+- Коммит-сообщения должны быть составлены согласно [следующим правилам](stage1/tasks/clean-code/guildlines/commits.md)
 
 _Пример:_
 ```
@@ -51,16 +51,17 @@ refactor: adjust HTML-formatting according to rule 2.1 in html-and-css.md
 
 **Максимальный балл за задание +45**
 
-- Каждый из 15 пунктов [первого](https://github.com/ViktoryiaYatskova/code-quality-principles/blob/main/html-and-css.md) руководства соблюден:
+- Каждый из 15 пунктов [первого](stage1/tasks/clean-code/guildlines/html-and-css.md) руководства соблюден:
     - +2 за каждое ПОЛНОСТЬЮ выполненное правило
     (т.е. правило должно быть соблюдено для всего документа, а не только для кусочка кода)
-- Каждый из 3 пунктов [расширенного руководства](https://github.com/ViktoryiaYatskova/code-quality-principles/blob/main/html-and-css-extended.md) соблюден: 
+- Каждый из 3 пунктов [расширенного руководства](stage1/tasks/clean-code/guildlines/html-and-css-extended.md) соблюден: 
     - +5 за каждое ПОЛНОСТЬЮ выполненное правило
 
 ## Ключевые навыки
 - Написание чистого, читабельного кода
 
 ## Материалы:
+- [Руководство по качеству кода](stage1/tasks/clean-code/guildlines/generic-principles.md)
 - "Чистый код", Роберт Мартин
 - [Википедия: Coding Conventions](https://en.wikipedia.org/wiki/Coding_conventions)
 
