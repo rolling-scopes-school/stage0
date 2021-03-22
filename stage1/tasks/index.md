@@ -6,7 +6,7 @@
 
 | № | Задание                                | Тема     |Форма проверки|Количество баллов|
 | - | -------------------------------------- | -------- | ------------ | --------------- | 
-| 1 |[online-zoo](stage1/tasks/online-zoo.md)|HTML & CSS| Cross-Check  | 200 х 1 = 200   | 
+| 1 |[online-zoo](stage1/tasks/online-zoo/online-zoo.md)|HTML & CSS| Cross-Check  | 200 х 1 = 200   | 
 | 2 |Test: HTML & CSS                        |HTML & CSS| Auto-Test    | 100 х 0.1 = 10  | 
 | 3 |Test: Git Basic                         |Git       | Auto-Test    | 100 х 0.1 = 10  | 
 | 4 |Алгоритмические задачи                  |JavaScript| Auto-Test    | 100 х 0.5 = 50  | 
