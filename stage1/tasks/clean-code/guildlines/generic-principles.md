@@ -16,16 +16,16 @@
 
 Еще одна причина - единый стандарт экономит время на написание кода. Вы не тратите минуты на раздумья, с какого регистра назвать переменную и какой выбрать стиль написания (н/п, _верблюжьяНотация_ или _ВЕРХНИЙ\_РЕГИСТР_), а на автомате пишите в том стиле, что описан в заранее принятом стандарте.
 
-- [Зачем?](#------)
-- [Общие принципы](#--------------)
-  * [1. DRY — *Don't Repeat Yourself*](#1-dry----don-t-repeat-yourself-)
-  * [2. KISS — _keep it short simple / keep it simple, stupid_](#2-kiss----keep-it-short-simple---keep-it-simple--stupid-)
-  * [3. YAGNI — _You ain't gonna need it_](#3-yagni----you-ain-t-gonna-need-it-)
-  * [4. Комментарии](#4------------)
-    + [4.1 Отложенные задачи (TODO)](#41--------------------todo-)
-  * [5. Пробелы в конце строки](#5-----------------------)
-  * [6. Именование файлов](#6------------------)
-  * [Далее:](#------)
+- [Зачем?](#Зачем)
+- [Общие принципы](#Общие-принципы)
+  * [1. DRY — *Don't Repeat Yourself*](#_1-dry-don39t-repeat-yourself)
+  * [2. KISS — _keep it short simple / keep it simple, stupid_](#_2-kiss-keep-it-short-simple-keep-it-simple-stupid)
+  * [3. YAGNI — _You ain't gonna need it_](#_3-yagni-you-ain39t-gonna-need-it)
+  * [4. Комментарии](#_4-Комментарии)
+    + [4.1 Отложенные задачи (TODO)](#_41-Отложенные-задачи-todo)
+  * [5. Пробелы в конце строки](#_5-Пробелы-в-конце-строки)
+  * [6. Именование файлов](#_6-Именование-файлов)
+  * [Далее:](#Далее)
 
 ## Общие принципы
 
@@ -339,7 +339,8 @@ for (let i = 0; i < 15; i++) {
 ``` 
 
 ### Далее:
-- [HTML и CSS рекомендации - начальный уровень](./html-and-css.md)
-- [JavaScript рекомендации](./javascript.md)
-- [Рекомендации к commit-ам](./commit.md)
-- [Автоматизируй это](./automation.md)
+- [HTML и CSS рекомендации - начальный уровень](stage1/tasks/clean-code/guildlines/html-and-css.md)
+- [HTML и CSS рекомендации - продвинутый уровень](stage1/tasks/clean-code/guildlines/html-and-css-extended.md)
+- [Рекомендации к commit-ам](stage1/tasks/clean-code/guildlines/commits.md)
+<!-- - [JavaScript рекомендации](./javascript.md)
+- [Автоматизируй это](./automation.md) -->
