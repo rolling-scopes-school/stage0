@@ -1,6 +1,7 @@
 # Вариант #4
 
-Выполнить задание согласно макету автора *Маргарита Григориева*: **[online zoo](https://www.figma.com/file/aBvQMVmI665DtzprpiniuH/online-zoo)**
+Выполнить задание согласно макету автора *Маргарита Григориева*: **[online zoo](https://www.figma.com/file/aBvQMVmI665DtzprpiniuH/online-zoo)**  
+Текст ссылки: https://www.figma.com/file/aBvQMVmI665DtzprpiniuH/online-zoo
 
 
 ## Создание макета: неделя #1+2
