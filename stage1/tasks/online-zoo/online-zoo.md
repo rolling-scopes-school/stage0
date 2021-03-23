@@ -25,12 +25,12 @@
 
 Первое, что нужно сделать, - это сделать дубляж макета в фигме. Для этого, вверху экрана нажимаем на имя проекта, рядом с надписью "view only". Далее выбираем "Duplicate to your drafts", что создаст вам локальную копию, с которой вы сможете работать. 
 
-###[Вариант #1](https://github.com/rolling-scopes-school/stage0/blob/master/stage1/tasks/online-zoo/variant-1.md)
-###[Вариант #2](https://github.com/rolling-scopes-school/stage0/blob/master/stage1/tasks/online-zoo/variant-2.md)
-###[Вариант #3](https://github.com/rolling-scopes-school/stage0/blob/master/stage1/tasks/online-zoo/variant-3.md)
-###[Вариант #4](https://github.com/rolling-scopes-school/stage0/blob/master/stage1/tasks/online-zoo/variant-4.md)
-###[Вариант #5](https://github.com/rolling-scopes-school/stage0/blob/master/stage1/tasks/online-zoo/variant-5.md)
-###[Вариант #6](https://github.com/rolling-scopes-school/stage0/blob/master/stage1/tasks/online-zoo/variant-6.md)
+### [Вариант #1](https://github.com/rolling-scopes-school/stage0/blob/master/stage1/tasks/online-zoo/variant-1.md)
+### [Вариант #2](https://github.com/rolling-scopes-school/stage0/blob/master/stage1/tasks/online-zoo/variant-2.md)
+### [Вариант #3](https://github.com/rolling-scopes-school/stage0/blob/master/stage1/tasks/online-zoo/variant-3.md)
+### [Вариант #4](https://github.com/rolling-scopes-school/stage0/blob/master/stage1/tasks/online-zoo/variant-4.md)
+### [Вариант #5](https://github.com/rolling-scopes-school/stage0/blob/master/stage1/tasks/online-zoo/variant-5.md)
+### [Вариант #6](https://github.com/rolling-scopes-school/stage0/blob/master/stage1/tasks/online-zoo/variant-6.md)
 
 
 ## Требования к репозиторию
