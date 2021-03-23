@@ -1,4 +1,4 @@
-## [Начальный уровень тут](stage1/tasks/clean-code/guildlines/html-and-css.md)
+## [Начальный уровень тут](stage1/tasks/clean-code/guidelines/html-and-css.md)
 
 # Продвинутый уровень:
 

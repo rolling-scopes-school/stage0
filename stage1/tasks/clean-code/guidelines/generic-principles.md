@@ -339,8 +339,8 @@ for (let i = 0; i < 15; i++) {
 ``` 
 
 ### Далее:
-- [HTML и CSS рекомендации - начальный уровень](stage1/tasks/clean-code/guildlines/html-and-css.md)
-- [HTML и CSS рекомендации - продвинутый уровень](stage1/tasks/clean-code/guildlines/html-and-css-extended.md)
-- [Рекомендации к commit-ам](stage1/tasks/clean-code/guildlines/commits.md)
+- [HTML и CSS рекомендации - начальный уровень](stage1/tasks/clean-code/guidelines/html-and-css.md)
+- [HTML и CSS рекомендации - продвинутый уровень](stage1/tasks/clean-code/guidelines/html-and-css-extended.md)
+- [Рекомендации к commit-ам](stage1/tasks/clean-code/guidelines/commits.md)
 <!-- - [JavaScript рекомендации](./javascript.md)
 - [Автоматизируй это](./automation.md) -->
