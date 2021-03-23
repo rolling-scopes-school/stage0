@@ -1,6 +1,7 @@
 # Вариант #3
 
-Выполнить задание согласно макету автора *Vladislav Chernov*: **[Online Zoo](https://www.figma.com/file/74wXlorl9mZQP0uhqDg83j/Online-Zoo)**
+Выполнить задание согласно макету автора *Vladislav Chernov*: **[Online Zoo](https://www.figma.com/file/74wXlorl9mZQP0uhqDg83j/Online-Zoo)**  
+Текст ссылки: https://www.figma.com/file/74wXlorl9mZQP0uhqDg83j/Online-Zoo
 
 
 ## Создание макета: неделя #1+2
