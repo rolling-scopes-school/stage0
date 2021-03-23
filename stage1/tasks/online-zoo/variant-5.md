@@ -1,6 +1,6 @@
 # Вариант #5
 
-Выполнить задание согласно макету автора *Noora Sagnayeva*: **[zooApp](https://www.figma.com/file/HKt5Nlx0jghQtJp6jW9q8F/zooApp)**
+Выполнить задание согласно макету автора *Noora Sagnayeva*: **[zooApp](https://www.figma.com/file/HKt5Nlx0jghQtJp6jW9q8F/zooApp)**  
 Текст сыслки: https://www.figma.com/file/HKt5Nlx0jghQtJp6jW9q8F/zooApp
 
 ## Создание макета: неделя #1+2
