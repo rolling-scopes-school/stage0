@@ -371,4 +371,4 @@ HTML5 рекомендуется для всех видов HTML-докумен�
   
 ```
 
-## [Продвинутый уровень](stage1/tasks/clean-code/guildlines/html-and-css-extended.md)
+## [Продвинутый уровень](https://github.com/ViktoryiaYatskova/stage0/blob/003824c26339d3ce0e6435e9fd38b1bd4323926c/stage1/tasks/clean-code/guidelines/html-and-css-extended.md)
