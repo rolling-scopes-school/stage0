@@ -12,8 +12,8 @@
 
 Перед вами небольшое одностраничное [веб-приложение TODO-list](https://github.com/ViktoryiaYatskova/clean-code-s1e1).
 Ваша задача - это навести порядок внутри файлов кода (_рефакторинг_) согласно следующим руководствам:
- [тут](stage1/tasks/clean-code/guildlines/html-and-css.md)
- и [тут](stage1/tasks/clean-code/guildlines/html-and-css-extended.md) (только html и css файлы). 
+ [тут](stage1/tasks/clean-code/guidelines/html-and-css.md)
+ и [тут](stage1/tasks/clean-code/guidelines/html-and-css-extended.md) (только html и css файлы). 
 При этом функционал приложения должен остаться все еще рабочим после ваших изменений.
 
 ## Требования к выполнению
@@ -25,7 +25,7 @@
 - Один git-коммит должен содержать изменения согласно одному пункту из руководств.
 (можно несколько коммитов на 1 пункт руководства, но не наоборот).
 Обязательно укажите, какой пункт покрывают изменения в данном коммите.
-- Коммит-сообщения должны быть составлены согласно [следующим правилам](stage1/tasks/clean-code/guildlines/commits.md)
+- Коммит-сообщения должны быть составлены согласно [следующим правилам](stage1/tasks/clean-code/guidelines/commits.md)
 
 _Пример:_
 ```
@@ -51,10 +51,10 @@ refactor: adjust HTML-formatting according to rule 2.1 in html-and-css.md
 
 **Максимальный балл за задание +45**
 
-- Каждый из 15 пунктов [первого](stage1/tasks/clean-code/guildlines/html-and-css.md) руководства соблюден:
+- Каждый из 15 пунктов [первого](stage1/tasks/clean-code/guidelines/html-and-css.md) руководства соблюден:
     - +2 за каждое ПОЛНОСТЬЮ выполненное правило
     (т.е. правило должно быть соблюдено для всего документа, а не только для кусочка кода)
-- Каждый из 3 пунктов [расширенного руководства](stage1/tasks/clean-code/guildlines/html-and-css-extended.md) соблюден: 
+- Каждый из 3 пунктов [расширенного руководства](stage1/tasks/clean-code/guidelines/html-and-css-extended.md) соблюден: 
     - +5 за каждое ПОЛНОСТЬЮ выполненное правило
 
 Внимание! Аккуратно выполняйте переименование атрибутов, не пропустив ни единного их вхождения, включая JS файлы.
@@ -63,7 +63,7 @@ refactor: adjust HTML-formatting according to rule 2.1 in html-and-css.md
 - Написание чистого, читабельного кода
 
 ## Материалы:
-- [Руководство по качеству кода](stage1/tasks/clean-code/guildlines/generic-principles.md)
+- [Руководство по качеству кода](stage1/tasks/clean-code/guidelines/generic-principles.md)
 - "Чистый код", Роберт Мартин
 - [Википедия: Coding Conventions](https://en.wikipedia.org/wiki/Coding_conventions)
 

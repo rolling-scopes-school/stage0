@@ -30,4 +30,4 @@
       - [photo-filter](stage1/tasks/js-projects/photo-filter.md)
       - [sounds-app](stage1/tasks/js-projects/sounds-app.md)
     - [clean-code](stage1/tasks/clean-code/clean-code-s1e1.md)
-      - [Руководство по качеству кода](stage1/tasks/clean-code/guildlines/generic-principles.md) 
+      - [Руководство по качеству кода](stage1/tasks/clean-code/guidelines/generic-principles.md) 
