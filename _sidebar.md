@@ -23,6 +23,7 @@
       - [variant-2](stage1/tasks/online-zoo/variant-2.md)
       - [variant-3](stage1/tasks/online-zoo/variant-3.md)
       - [variant-4](stage1/tasks/online-zoo/variant-4.md)
+      - [variant-5](stage1/tasks/online-zoo/variant-5.md)
     - [codewars](stage1/tasks/codewars.md)
     - [js-projects](stage1/tasks/js-projects/js-projects.md)
       - [virtual-piano](stage1/tasks/js-projects/virtual-piano.md)
