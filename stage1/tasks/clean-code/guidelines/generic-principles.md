@@ -178,7 +178,6 @@ if (weekDay === 'Sunday' || weekDay === 'Saturday' ) {
 const today = new Date();
 const weekday = today.getDay();
 
-// non DRY code
 if (weekDay === 'Sunday' || weekDay === 'Saturday' ) {
     logDayPlan(today, 'sleep, eat, rest');
 } else {
