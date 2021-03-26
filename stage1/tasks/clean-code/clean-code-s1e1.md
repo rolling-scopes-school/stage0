@@ -25,7 +25,15 @@
 - Один git-коммит должен содержать изменения согласно одному пункту из руководств.
 (можно несколько коммитов на 1 пункт руководства, но не наоборот).
 Обязательно укажите, какой пункт покрывают изменения в данном коммите.
+- Покрытие коммитом двух правил допустимо, если соблюдение одного правила автоматом гарантируем соблюдение другого.
+В этом случае оба правила должны быть указаны в commit message.
 - Коммит-сообщения должны быть составлены согласно [следующим правилам](stage1/tasks/clean-code/guidelines/commits.md)
+- Изменения делайте в ветке `clean-code-s1e1` созданной от `master`
+- После создайте Pull Request ветки `clean-code-s1e1` в `master`. Ссылку на PR отправить на cross-check.
+- Для проверки задания достаточно открыть его у себя локально. Вы можете задеплоить свое приложение через `gh-pages` для упрощения проверки его кросс-ревьюером,
+ но это необязательно.
+ - На данном этапе не предпологается использование автоматических инструментов по форматированию кода.
+ Изучите и используйте максимально возможности вашей IDE для рефакторинга (ниже есть ссылки для VS Code)
 
 _Пример:_
 ```
@@ -66,6 +74,10 @@ refactor: adjust HTML-formatting according to rule 2.1 in html-and-css.md
 - [Руководство по качеству кода](stage1/tasks/clean-code/guidelines/generic-principles.md)
 - "Чистый код", Роберт Мартин
 - [Википедия: Coding Conventions](https://en.wikipedia.org/wiki/Coding_conventions)
+- [Git commit editing](https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History)
+    - [Как использовать Vim или поменять editor для Git](https://www.tempertemper.net/blog/changing-editor-for-git-on-the-command-line)
+- [Refactoring code with VS Code](https://code.visualstudio.com/docs/editor/refactoring)
+- [Key bindings in VS Code](https://code.visualstudio.com/docs/getstarted/keybindings)
 
 [Документ для вопросов](https://docs.google.com/spreadsheets/d/1lgzmc72mKCmYvHimvqBNENgKJuXMON8q1f1s4GEnEVI/edit?usp=sharing)
 
