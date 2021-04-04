@@ -48,7 +48,7 @@
 
 3. Блок **Welcome to the zoo / How it works**
 - Правильное расположение картинок относительно текста.
-  
+
 4. Блок **Your donation makes a difference**
 - Input `$ Donation amount` должен быть типа number, со [cкрытыми стрелками](https://www.w3schools.com/howto/howto_css_hide_arrow_number.asp). Сам символ `$` при вводе сохраняется. На поле должно быть ограничение в 4 символа.
 - Кнопка со стрелкой должна быть интерактивной. При нажатии может ничего не происходить.
