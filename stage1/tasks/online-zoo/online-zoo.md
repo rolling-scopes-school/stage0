@@ -2,9 +2,9 @@
 
 | Дата выдачи | Этап | Deadline         | Folder name   | Branch name   |
 | ------------| ---- |---------------- | ------------- | ------------- |
-| 23.03.2021 | Неделя 1&2 - Верстка | 05.04.2021 | online-zoo    | online-zoo    |
-| 06.04.2021 | Неделя 3 - Адаптив | 12.04.2021 | online-zoo    | online-zoo    |
-| 13.04.2021 | Неделя 4&5 - JS | 26.04.2021 | online-zoo    | online-zoo    |
+| 23.03.2021 | Неделя 1&2 - Верстка | 05.04.2021 23:59 | online-zoo    | online-zoo    |
+| 06.04.2021 | Неделя 3 - Адаптив | 12.04.2021 23:59 | online-zoo    | online-zoo    |
+| 13.04.2021 | Неделя 4&5 - JS | 26.04.2021 23:59| online-zoo    | online-zoo    |
 
 Даты выдачи и дедлайны тасков находятся в [расписании](https://docs.google.com/spreadsheets/d/1oM2O8DtjC0HodB3j7hcIResaWBw8P18tXkOl1ymelvE/edit#gid=1646898206)
 
@@ -89,5 +89,13 @@
 
 
 ## Полезные ссылки
+
+Можно найти видео самим, а можно взять вот эти стримы с трансляциями животных:
+- **[Панды](https://www.youtube.com/watch?v=OObOQ2GElhA)**
+- **[Орлы](https://www.youtube.com/watch?v=RmmAzrAkKqI)**
+- **[Аллигаторы](https://www.youtube.com/watch?v=EnxRJii_dp8)**
+- **[Гориллы](https://www.youtube.com/watch?v=rgXWDk7rh4w)**
+- **[Вместо лемура можно использовать видео красной панды](https://www.youtube.com/watch?v=_5_oHPJDDOM)**
+
 
 Можно подключать как скачиванием локальных шрифтов, так и подключением шрифтов через url на [google fonts](https://fonts.google.com/). Если вы не можете найти или скачать нужный шрифт, просто замените его шрифтом с тем же типом засечек.
