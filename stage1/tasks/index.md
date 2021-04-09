@@ -14,5 +14,6 @@
 | 6 |[virtual-piano](stage1/tasks/js-projects/virtual-piano.md)|JavaScript| Cross-Check  | 50 х 1 = 50     | 
 | 7 |[photo-filter](stage1/tasks/js-projects/photo-filter.md)  |JavaScript| Cross-Check  | 60 х 1 = 60     | 
 | 8 |[sounds-app](stage1/tasks/js-projects/sounds-app.md)      |JavaScript| Cross-Check  | 100 х 1 = 50    |
-| 9 |[clean-code](stage1/tasks/clean-code/clean-code-s1e1.md)  |HTML & CSS| Cross-Check  | 45 х 1 = 45     | 
-|   |                                         |          | **Всего**    | **538 баллов**|
+| 9 |[clean-code](stage1/tasks/clean-code/clean-code-s1e1.md)  |HTML & CSS| Cross-Check  | 45 х 1 = 45     |
+| 10 |[self-introduction](stage1/tasks/self-introduction/self-introduction.md)  |Soft Skills| Cross-Check  | 100 х 1 = 100 |
+|   |                                         |          | **Всего**    | **638 баллов**|
