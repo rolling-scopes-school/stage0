@@ -34,3 +34,4 @@
     - [clean-code](stage1/tasks/clean-code/clean-code-s1e1.md)
       - [Руководство по качеству кода](stage1/tasks/clean-code/guidelines/generic-principles.md)
     - [self-introduction](stage1/tasks/self-introduction/self-introduction.md)
+-  [stage2](stage2/chess/codejam-chess-part-one.md)
