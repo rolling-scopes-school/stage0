@@ -26,6 +26,7 @@
 5. В вашем **приватном** репозитории (по ссылке вида `https://github.com/rolling-scopes-school/your-github-account-JSFE2021Q1`) от ветки `main` создайте ветку `self-introduction`.
 6. В созданной ветке `self-introduction` создайте папку `self-introduction`, в ней создайте файл `index.md`.
 7. В файл `index.md` добавьте ссылку на ваше YouTube-видео.
+8. Сделайте Pull Request из ветки `self-introduction` в ветку `main`. Pull Request должен называться так же, как и задание — **Self-Introduction**, и соответствовать [требованиям к Pull Requests](https://docs.rs.school/#/pull-request-review-process?id=Требования-к-pull-request-pr). В качестве скриншота результата можно прикрепить скриншот видео, а в качестве ссылки на деплой — ссылку на YouTube. **Мержить Pull Request не нужно**.
 
 > ### Важно
 >
