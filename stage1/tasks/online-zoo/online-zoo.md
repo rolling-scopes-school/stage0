@@ -3,8 +3,8 @@
 | Дата выдачи | Этап | Deadline         | Folder name   | Branch name   |
 | ------------| ---- |---------------- | ------------- | ------------- |
 | 23.03.2021 | Неделя 1&2 - Верстка | 05.04.2021 23:59 | online-zoo    | online-zoo    |
-| 06.04.2021 | Неделя 3 - Адаптив | 12.04.2021 23:59 | online-zoo    | online-zoo    |
-| 13.04.2021 | Неделя 4&5 - JS | 26.04.2021 23:59| online-zoo    | online-zoo    |
+| 06.04.2021 | Неделя 3&4 - Адаптив | 19.04.2021 23:59 | online-zoo    | online-zoo    |
+| 19.04.2021 | Неделя 5&6 - JS | 03.05.2021 23:59| online-zoo    | online-zoo    |
 
 Даты выдачи и дедлайны тасков находятся в [расписании](https://docs.google.com/spreadsheets/d/1oM2O8DtjC0HodB3j7hcIResaWBw8P18tXkOl1ymelvE/edit#gid=1646898206)
 
